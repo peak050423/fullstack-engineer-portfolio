@@ -2,7 +2,7 @@ export const personalData = {
   name: "Matin Barrera",
   profile: '/profile.png',
   designation: "Software Engineer",
-  description: "My name is Matin Barrera. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Martin Barrera, and I am a dedicated and passionate programmer. I quickly adapt to new technologies and enjoy exploring innovative solutions. Problem-solving is something I truly enjoy, and I'm always eager to learn. I have a deep appreciation for all aspects of web development and am committed to making the web more accessible. JavaScript is my primary skill, and I enjoy utilizing it for a wide variety of tasks. I am open to job opportunities that align with my expertise and interests.",
   email: 'martin.barrera050423@gmail.com',
   phone: '+393276548921',
   address: 'Via Alfredo Casella, 11',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com',
   leetcode: "https://leetcode.com",
   devUsername: "peak050423",
-  resume: "https://drive.google.com/file/d/1DZijH6jdav3htcTKISsH9GtxTePUEtS5/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1cH9ygmxILbF2T7RxyfJM7qj9PBkv_ALr/view?usp=sharing"
 }

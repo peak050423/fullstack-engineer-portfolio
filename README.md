@@ -33,7 +33,6 @@
 - [Tutorials](#tutorials-wrench)
   - [Gmail App Password Setup](#gmail-app-password-setup)
   - [Create a Telegram Bot](#create-a-telegram-bot)
-  - [Fetching Blog from dev.to](#fetching-blog-from-devto)
 - [Packages Used](#packages-used-package)
 
 ---
@@ -46,7 +45,6 @@
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 - CONTACTS
 
 ---
@@ -150,7 +148,7 @@ EMAIL_ADDRESS =
 
 Eg:
 
-```javascript
+````javascript
 export const personalData = {
   name: "Matin Barrera",
   profile: "/profile.png",
@@ -168,11 +166,6 @@ export const personalData = {
   devUsername: "peak050423",
   resume: "...",
 };
-```
-
-`devUsername` is used for fetching blog posts from `dev.to`.
-
----
 
 # Deployment :rocket:
 
@@ -223,17 +216,9 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
 5. Once your bot is created, BotFather will send you a **Token**. Save this token, as you will need it for your environment variables (e.g., `TELEGRAM_BOT_TOKEN`).
 6. To get your chat ID:
    - Open your bot in Telegram and send it a message.
-   - Visit the following URL in your browser, replacing `BOT_TOKEN` with your actual bot token:  
+   - Visit the following URL in your browser, replacing `BOT_TOKEN` with your actual bot token:
      `https://api.telegram.org/bot<BOT_TOKEN>/getUpdates`
    - Look for the `chat` object in the response, which contains your **chat ID** (you can use this value for `TELEGRAM_CHAT_ID`).
-
-## Fetching Blog from dev.to
-
-To display your blog posts from dev.to on the portfolio:
-
-1. Set your `devUsername` in the `utils/data.js` file to your dev.to username.
-2. The application will automatically fetch your latest blog posts and display them in the **BLOG** section.
-3. Ensure your blogs are publicly visible on dev.to, and the application will fetch them using the dev.to API.
 
 ---
 
@@ -269,7 +254,7 @@ Run the following command:
 
 npm install -g next
 
-```
+````
 
 This installs Next.js globally
 
