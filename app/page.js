@@ -1,4 +1,3 @@
-import { personalData } from "@/utils/data/personal-data";
 import AboutSection from "./components/homepage/about";
 import Projects from "./components/homepage/project";
 import ContactSection from "./components/homepage/contact";

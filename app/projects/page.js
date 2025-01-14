@@ -1,6 +1,5 @@
 // @flow strict
 
-import { personalData } from "@/utils/data/personal-data";
 import ProjectCard from "../components/homepage/project/project-card";
 import { projects } from "@/utils/data/project";
 
