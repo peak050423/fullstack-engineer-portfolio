@@ -150,10 +150,10 @@ Eg:
 
 ````javascript
 export const personalData = {
-  name: "Matin Barrera",
+  name: "Martin Barrera",
   profile: "/profile.png",
   designation: "Full-Stack Software Engineer",
-  description: "My name is Matin Barrera....",
+  description: "My name is Martin Barrera....",
   email: "martin.barrera050423@gmail.com",
   phone: "+393276548921 ",
   address: "Via Alfredo Casella, 11",
