@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Senior Full Stack Developer',
     company: "Knokcare | Remote",
-    duration: "(Dec 2020 - Present)",
+    duration: "(Dec 2020 - Dec 2023)",
     description: "Developed and maintained scalable web applications with ASP.NET MVC, improving the mobile app experience, implemented data recovery processes with SQL Server, reducing data loss risks, conducted code reviews that increased bug detection, optimized server performance, cutting load time, managed Git version control for multiple projects, redesigned the website UI, boosting traffic, and conducted unit testing, reducing bugs."
   },
   {
