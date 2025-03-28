@@ -22,9 +22,9 @@ export const projects = [
         cover_image: "/project_image/project_4.png",
         published_at: "2021-09-20T00:00:00Z",
         public_reactions_count: 5,
-        title: "eBay",
-        description: "eBay is an online marketplace where people buy and sell new and used items across various categories, offering auction-style and fixed-price listings.",
-        url: "https://ebay.com"
+        title: "eCommerce Solutions for B2B",
+        description: "eCommerce is an online marketplace where people buy and sell new and used items across various categories, offering auction-style and fixed-price listings.",
+        url: "https://oroinc.com/"
     },
     {
         id: 4,
